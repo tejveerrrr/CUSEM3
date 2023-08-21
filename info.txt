@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hey this is tejveer
-my name is anurag
+my  anurag
+=======
+ helooooo   this is tejveer
+>>>>>>> branch1
